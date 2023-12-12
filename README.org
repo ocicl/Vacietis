@@ -4,6 +4,6 @@ C to Common Lisp compiler
 
 |---------+---------------------------------------------|
 | source  | git:https://github.com/vsedach/Vacietis.git |
-| commit  | 808914                                      |
+| commit  | 808914a                                     |
 | systems | vacietis vacietis.vcc                       |
 |---------+---------------------------------------------|
