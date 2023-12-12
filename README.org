@@ -1,0 +1,9 @@
+* Vacietis
+
+C to Common Lisp compiler
+
+|---------+---------------------------------------------|
+| source  | git:https://github.com/vsedach/Vacietis.git |
+| commit  | 808914                                      |
+| systems | vacietis vacietis.vcc                       |
+|---------+---------------------------------------------|
